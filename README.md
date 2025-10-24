@@ -13,7 +13,7 @@ pip install kivy requests
 
 ### 3. Run the app:
 ```bash
-python coffin_nap_timer.py
+python nap_timer.py
 ```
 
 ### 3. Enter your latitude and longitude — the app calculates your local sunset and sets a timer.
